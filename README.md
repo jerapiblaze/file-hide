@@ -1,5 +1,6 @@
 # file-hide
 what you see is not what you get
+[Inspirated from this WikiHow](https://www.wikihow.com/Hide-a-File-in-an-Image-File)
 
 ## cách dùng
 1. cách ngầu lòi: `hide <file vỏ bọc> <file/thư mục thật>`
