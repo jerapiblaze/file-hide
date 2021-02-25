@@ -1,5 +1,5 @@
 # file-hide
-what you see is not what you get
+what you see is not what you get <br>
 [Inspirated from this WikiHow](https://www.wikihow.com/Hide-a-File-in-an-Image-File)
 
 ## cách dùng
